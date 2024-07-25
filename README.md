@@ -2,7 +2,7 @@
 
 ## Overview
 
-Repositories include various examples, exercises, and explanations related to NLP techniques and concepts.
+The repository includes various examples, exercises, and explanations related to NLP techniques and concepts.
 
 ## Contents
 
